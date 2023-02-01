@@ -1,3 +1,3 @@
 remote_theme: biijuwa/eccommerce-theme
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://biijuwa.github.io/ec-vox/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://biijuwa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
